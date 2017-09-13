@@ -2,12 +2,13 @@
 
 `cinst obs-studio` https://obsproject.com/
 
-* pickpick
-* vscode
-* nodejs
+* choco install picpick.portable
+* choco install visualstudiocode
+* choco install nodejs
 * skype
 * chrome
 * 1password
 * OneNote
-* docker
+* choco install docker
 * OneDrive
+* cinst slack -y
