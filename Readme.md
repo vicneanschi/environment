@@ -14,3 +14,4 @@
 * choco install docker
 * cinst slack -y
 * webstorm
+* vlc
