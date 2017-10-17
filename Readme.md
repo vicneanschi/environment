@@ -18,3 +18,4 @@
 * 7-Zip
 * Adobe Acrobat Reader DC
 * https://github.com/gurnec/HashCheck
+* python
