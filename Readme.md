@@ -1,5 +1,7 @@
 `choco upgrade chocolatey`
 
+* https://git-scm.com
+
 `cinst obs-studio` https://obsproject.com/
 
 * choco install picpick.portable
@@ -10,6 +12,5 @@
 * 1password
 * OneNote
 * choco install docker
-* OneDrive
 * cinst slack -y
 * webstorm
