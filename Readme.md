@@ -16,3 +16,4 @@
 * webstorm
 * vlc
 * 7-Zip
+* Adobe Acrobat Reader DC
