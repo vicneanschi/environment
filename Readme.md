@@ -1,4 +1,4 @@
-`choco upgrade chocolatey`
+* `choco upgrade chocolatey`
 
 * https://git-scm.com
 
@@ -15,3 +15,4 @@
 * cinst slack -y
 * webstorm
 * vlc
+* 7-Zip
