@@ -12,3 +12,4 @@
 * choco install docker
 * OneDrive
 * cinst slack -y
+* webstorm
